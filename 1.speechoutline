@@ -5,5 +5,5 @@
 3.git常用的操作
   点1：常用： git add fetch pull push log status commit 
   点2：较不常用但有用git history 
-  点3： 
+  点3：git diff  
 
