@@ -23,3 +23,4 @@ print ("master change M1")
 # try rebease 
 print (" now rebase for test C7 ") 
 
+print (" rebase movm C8") 
