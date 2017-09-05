@@ -18,3 +18,5 @@ print ("now new feature C5")
 print (" feature end  C6")
 
 #请务必牢记这些分支全部都是本地分支，这一点很重要。当你在使用分支及合并的时候，一切都是在你自己的 Git 仓库中进行的 — 完全不涉及与服务器的交互。
+
+print ("master change M1") 
