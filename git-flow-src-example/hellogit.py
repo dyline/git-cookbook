@@ -23,4 +23,9 @@ print ("master change M1")
 # try rebease 
 print (" now rebase for test C7 ") 
 
-print (" rebase movm C8") 
+print (" rebase movm C8")
+
+#Base is C8 
+print ( "test Range C11" )
+print ( "test Range C12" ) 
+
