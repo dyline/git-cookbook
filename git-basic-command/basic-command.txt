@@ -2,10 +2,29 @@
 演示下add 
 先演示增加吧。
 
-git add
+1,git add 
+2.git commit 
+3,git push 
+
+第二步
+演示下branch吧 
+
+1.git branch 
+2.git checkout 
+是否永久化呢？ 
+否 
+3.git branch -d 
+是
+4.git push 
+
+
+
+
 
 其实应该讲讲merge了吧
 git merge
+
+也不知道hotfix的rebase讲的怎么样了
 
 讲完merge就讲讲rebase 
 rebase的目的是git比较独特的概念 
@@ -13,3 +32,4 @@ rebase的目的是git比较独特的概念
 能够让多人的提交如同一个人在做一样
 
 好了我准备好了讲吧
+
