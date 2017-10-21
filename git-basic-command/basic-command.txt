@@ -2,4 +2,6 @@
 演示下add 
 先演示增加吧。
 
-git add 
+git add
+
+其实应该讲讲merge了吧
