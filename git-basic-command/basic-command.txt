@@ -5,3 +5,9 @@
 git add
 
 其实应该讲讲merge了吧
+git merge
+
+讲完merge就讲讲rebase 
+rebase的目的是git比较独特的概念 
+
+能够让多人的提交如同一个人在做一样
